@@ -1,0 +1,14 @@
+layout_spectrum: 0.7806835719384253
+typography_spectrum: 0.6858103156555444
+color:
+  brandStrength: 0.30190455657429993
+  lightness: 0.3580894311890006
+  saturation: 0.2294576889835298
+  rhythmicContrast: 0.01730962423607707
+  brandColors:
+    - '#000000'
+    - '#E6F0F1'
+    - '#81A1D0'
+    - '#576474'
+    - '#AD4000'
+name: Musings
